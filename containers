@@ -1,0 +1,24 @@
+ {
+  'forba': [
+    Colors.blue,
+    Colors.red,
+    Colors.green,
+    Colors.brown,
+    Colors.yellow,
+    Colors.orange,
+    Colors.purple,
+    Colors.pink,
+    Colors.deepPurpleAccent,
+  ],
+  'tekst': [
+    'Domagoj',
+    'Dezi',
+    'Helena',
+    'Ružica',
+    'Ivana',
+    'Lucija',
+    'Megi',
+    'Ana',
+    'Petra',
+  ]
+}
